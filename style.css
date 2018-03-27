@@ -1,0 +1,16 @@
+.board {
+  position: relative;
+}
+
+.block {
+  position: absolute;
+  height: 10px;
+  width: 10px;
+  background-color: black;
+}
+
+.food {
+  background-color: blue;
+  height: 10px;
+  width: 10px;
+}
